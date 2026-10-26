@@ -54,7 +54,7 @@ export default function App() {
             <div>
               <div className="flex items-center gap-2">
                 <h1 className="text-sm font-bold tracking-tight text-white sm:text-base">
-                  From $66 to $0
+                  From $666 to $0
                 </h1>
                 <span className="text-xs px-2 py-0.5 rounded-full bg-cyan-950 border border-cyan-800 text-cyan-400 font-mono hidden sm:inline-block">
                   Breaking the Coupon Flow
